@@ -1,0 +1,6 @@
+chromadb           #vector db storage for documents
+openAI             #LLM API access
+pypdf2             #PDF document reading
+python-docx        #Word document reading
+sentence-transformers   #Text embedding generation
+pandas                 #to read csv data
